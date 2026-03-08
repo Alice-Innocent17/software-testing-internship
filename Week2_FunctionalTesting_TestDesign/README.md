@@ -23,7 +23,7 @@ TASKS COMPLETED:
 
 - Task4_Instagram_TestCase_TestScenarios.xlsx – Contains test scenarios and test cases for the selected application.
 - Task5_BVA.xlsx – Boundary Value Analysis tables for the given input ranges.
-- Task6_EP_TestCases.docx – Document containing Equivalence Partitioning test cases.
+- Task6_EP_TestCases.pdf – Document containing Equivalence Partitioning test cases.
 
 LEARNING OUTCOME:
 
