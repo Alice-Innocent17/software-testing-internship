@@ -32,5 +32,5 @@ Through these tasks, the following concepts were practiced:
 - Designing detailed test cases
 - Applying Boundary Value Analysis (BVA)
 - Applying Equivalence Partitioning (EP)
-* Documenting test artifacts in structured formats
+- Documenting test artifacts in structured formats
 
