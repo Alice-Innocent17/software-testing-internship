@@ -4,10 +4,10 @@ OVERVIEW:
 This project demonstrates API testing using Postman on public REST APIs. As part of my software testing internship, I performed the four fundamental HTTP methods (GET, POST, PUT, DELETE) to validate CRUD (Create, Read, Update, Delete) operations.The testing was performed on JSONPlaceholder - a free fake API for testing and prototyping.
 
 TECHNOLOGIES USED:
-Tool	           |   Purpose
-Postman	         |   API testing client
-JSONPlaceholder	 |   Free fake API for testing
-Git/GitHub	     |   Version control and submission
+Tool: Purpose
+Postman: API testing client
+JSONPlaceholder: Free fake API for testing
+Git/GitHub: Version control and submission
 
 API ENDPOINTS TESTED:
 Method	 |   Endpoint	 |   Description
