@@ -11,32 +11,32 @@ Base URL: https://jsonplaceholder.typicode.com
 
 TEST EXECUTION:
 1. GET request:
-   Objective: Retrieve existing user data from the server.
-   Expected Result:
+   - Objective: Retrieve existing user data from the server.
+   - Expected Result:
        - Status Code: 200 OK
        - Response body contains user details (id, name, email, etc.)
-   Actual Result: Passed
+   - Actual Result: Passed
 
 2. POST request:
-   Objective: Create a new user by sending data to the server.
-   Expected Result:
+   - Objective: Create a new user by sending data to the server.
+   - Expected Result:
        - Status Code: 201 Created
        - Response includes the sent data plus a new ID
-   Actual Result: Passed
+   - Actual Result: Passed
 
 3. PUT request:
-   Objective: Update an existing user's information.
-   Expected Result:
+   - Objective: Update an existing user's information.
+   - Expected Result:
        - Status Code: 200 OK
        - Response shows the updated data
-   Actual Result: Passed
+   - Actual Result: Passed
 
 4. DELETE request:
-   Objective: Remove an existing user from the system.  
-   Expected Result:
+   - Objective: Remove an existing user from the system.
+   - Expected Result:
        - Status Code: 200 OK 
        - Empty response body
-   Actual Result: Passed
+   - Actual Result: Passed
 
 COLLECTION EXPORT:
 The complete Postman collection containing all four requests has been exported and is included in this repository.
