@@ -43,8 +43,10 @@ This document provides an overall view of the testing process and findings.
 FILES INCLUDED:
 
 - Task7_UIUX_Issues.pdf – Contains UI/UX testing report with screenshots
-- Task8_API_Screenshots/ – Screenshots of API requests and responses
-- Task8_Postman_Collection.json – Exported Postman collection file
+- Task8_API_Testing/
+  This folder contains all API testing artifacts:
+     - API Screenshots (GET, POST, PUT, DELETE)
+     - API testing.Postman_collection.json - Exported postman collection file 
 - Task9_test_summary_report.pdf – Final test summary report
 
 LEARNING OUTCOME:
