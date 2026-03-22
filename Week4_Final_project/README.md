@@ -7,7 +7,7 @@ PROJECT OVERVIEW:
 - The testing process involved validating various functionalities of the application, identifying defects, and documenting the results.
 
 DELIVERABLES:
-The following documents are included in this project:
+ The following documents are included in this project:
    - Test Plan – Describes testing strategy and scope
    - Test Scenarios – High-level testing conditions
    - Test Cases – Detailed test cases (40+)
@@ -16,4 +16,4 @@ The following documents are included in this project:
    - Final summary report of the internship
 
 CONCLUSION:
-This project helped in gaining practical knowledge of software testing by applying concepts such as test case design, bug reporting, and UI testing. It improved understanding of real-world application testing and documentation practices.
+  This project helped in gaining practical knowledge of software testing by applying concepts such as test case design, bug reporting, and UI testing. It improved understanding of real-world application testing and documentation practices.
